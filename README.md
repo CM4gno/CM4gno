@@ -1,4 +1,5 @@
-## Olá! Eu sou o Carlos Magno 🖐️
+## Olá! Eu sou o Carlos Magno ![image](https://user-images.githubusercontent.com/120645803/207869731-acdd856b-762c-4d34-b85b-78f4415c33b7.png)
+
 
 [![Linkedlin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-magno-silva-farias-ba3097175/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/cm4gno)
