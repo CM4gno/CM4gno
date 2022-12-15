@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Carlos Magno 🖐️
 
 [![Linkedlin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-magno-silva-farias-ba3097175/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://instagram.com/cm4gno/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://instagram.com/cm4gno)
 
 ![CM4gno GitHub stats](https://github-readme-stats.vercel.app/api?username=CM4gno&show_icons=true&theme=dracula&count_private=true)
 
