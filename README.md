@@ -1,4 +1,4 @@
-## Olá! Eu sou o Carlos Magno 🙌!
+## Hello, my name is Carlos Magno ![image](https://user-images.githubusercontent.com/120645803/208086987-5f42fb30-f5ae-4db9-b3cb-8052f885a6ca.png)!
 
 
 [![Linkedlin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-magno-silva-farias-ba3097175/)
