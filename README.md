@@ -17,7 +17,7 @@
   <img align="center" alt="microsoft" src="https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white" />
 </div><br/>
 
-</div> <br/> a little bit of my skills in educational technology
-
+a little bit of my skills in educational technology
+</div> <br/> 
 New in this incredible world 🗺️ 
 Learning every day a little bit more 😊
