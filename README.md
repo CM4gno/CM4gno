@@ -1,4 +1,4 @@
-## Hello, my name is Carlos Magno ![image](https://user-images.githubusercontent.com/120645803/208086987-5f42fb30-f5ae-4db9-b3cb-8052f885a6ca.png)!
+## Hello, my name is Carlos Magno!
 
 
 [![Linkedlin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-magno-silva-farias-ba3097175/)
@@ -17,5 +17,5 @@
   <img align="center" alt="microsoft" src="https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white" />
 </div><br/>
 
-Novo nesse mundo incrivel 🗺️ 
-Aprendendo a cada dia um pouquinho mais 😊
+New in this incredible world 🗺️ 
+Learning every day a little bit more 😊
