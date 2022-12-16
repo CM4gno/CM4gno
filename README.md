@@ -6,7 +6,7 @@
 
 ![CM4gno GitHub stats](https://github-readme-stats.vercel.app/api?username=CM4gno&show_icons=true&theme=dracula&count_private=true)
 
-## Tecnologias que eu uso no meu dia
+## Technologies I use in my day
 
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -16,6 +16,8 @@
   <img align="center" alt="sql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
   <img align="center" alt="microsoft" src="https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white" />
 </div><br/>
+
+</div> <br/> a little bit of my skills in educational technology
 
 New in this incredible world 🗺️ 
 Learning every day a little bit more 😊
