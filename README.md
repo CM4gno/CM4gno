@@ -28,6 +28,6 @@
  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
-/div>
+</div>
 New in this incredible world 🗺️ 
 Learning every day a little bit more 😊
